@@ -28,19 +28,20 @@ I believe in leveraging tech to shape the future of healthcare, education, and f
 ### My Tech Stack
 
 **Languages & Frameworks:**  
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>  
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>  
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>  
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>  
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>  
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>  HTML
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>  CSS
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>  JavaScript 
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>  Python 
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>  Node.js
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>  React, Typescript
+
 
 **Tools & Platforms:**  
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>  
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>  
-<img src="https://img.shields.io/badge/VScode-007ACC?logo=visual-studio-code&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>  
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>  Git
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>  GitHub 
+<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>  Postman
+<img src="https://img.shields.io/badge/VScode-007ACC?logo=visual-studio-code&logoColor=white"/>  Vscode
+<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>  Linux
 
 ---
 
