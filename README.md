@@ -1,47 +1,63 @@
-# Abdullahi_Igbemo
-<!-- Profile Header with Typing Animation -->
+<h1 align="center">Hi, I'm Abdullahi Ayobami Igbemo</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Abdullahi+Ayobami+Igbemo;Physiotherapist+%7C+Software+Engineer+in+Training;Building+Tech+for+Health%2C+Education+%26+Finance;Empowering+Africa+through+Innovation" alt="Typing SVG" />
-</p>
-
-<h1 align="center">Hi, I'm Abdullahi Ayobami Igbemo 👋</h1>
-<p align="center">
-  🧠 Physiotherapist | 💻 ALX Software Engineer in Training | 🌍 Health-Tech & Ed-Tech Innovator | 🇳🇬 Passionate African Changemaker
+  <em>Physiotherapist | Software Engineer (ALX) | Tech for Impact</em><br>
+  <strong>Building scalable software that solves real-world problems across Africa.</strong>
 </p>
 
 ---
 
-## 👨‍⚕️ About Me
+### About Me
 
-Hi, I’m **Abdullahi Ayobami Igbemo** — a **Physiotherapist** with a unique blend of experience across **clinical practice**, **corporate healthcare**, and **education**. My journey began with a passion for teaching, which still fuels my drive to learn, share knowledge, and build solutions that empower others.
+I’m currently enrolled in the **ALX Software Engineering Program**, learning both front-end and back-end development. My foundation in clinical healthcare and corporate health services, combined with an early career in education, drives my passion for technology that improves lives.
 
-Currently expanding my impact through the **ALX Software Engineering program**, I’m focused on **front-end and back-end development** to design tech-driven solutions for real-world problems—particularly in **healthcare**, **education**, and **financial inclusion**.
-
-With my foundation in patient care, leadership in health systems, and love for education, I aspire to:
-
-- Build intuitive health and learning technologies  
-- Mentor and uplift the next generation of African innovators  
-- Collaborate on meaningful, impact-driven software projects
-
-I believe technology is a tool for **healing, teaching, and transforming communities**—and I’m here to help shape that future.
+I believe in leveraging tech to shape the future of healthcare, education, and financial inclusion. I’m especially interested in creating tools that empower not just urban but rural communities across Africa.
 
 ---
 
-## 🌍 Vision
+### What I’m Working On
 
-I am on a mission to **empower the next generation of African youth**—individuals defined by **grit**, **resilience**, and **problem-solving**. My goal is to create tools and platforms that **positively transform rural communities** and put Africa at the forefront of global innovation.
+- **Online Learning Platforms** – For exam prep, digital education, and youth empowerment  
+- **Telemedicine Apps** – To improve access to healthcare  
+- **Payments & Wallet Apps** – To expand financial access for underserved populations  
+- **AgriTech Projects** – Supporting smart farming and food security  
+- **Open Source Contributions** – Giving back and growing with the community  
 
 ---
 
-## 🛠️ Tech Stack
+### My Tech Stack
 
-```html
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+**Languages & Frameworks:**  
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>  
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>  
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>  
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>  
+
+**Tools & Platforms:**  
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>  
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>  
+<img src="https://img.shields.io/badge/VScode-007ACC?logo=visual-studio-code&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>  
+
+---
+
+### Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/abdullah-igbemo-72634a177)  
+- [Twitter / X](https://x.com/igbemo?t=_y5eu6fcL37p-tHPhquzvQ&s=09)  
+
+---
+
+### GitHub Stats
+
+![Abdullahi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
+---
+
+### Closing Note
+
+> “Together, we can position Africa as a global force in technology—driven by grit, innovation, and community.”
